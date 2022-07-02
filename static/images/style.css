@@ -668,6 +668,7 @@ p{
   .div-right3{
     display: none;
   }
+ 
 
   @media (max-width:981px){
     .div-right{
@@ -837,6 +838,9 @@ p{
         }
         .div-loc2{
           display: none;
+        }
+        .div-2{
+          width: 50% !important;
         }
       }
 
