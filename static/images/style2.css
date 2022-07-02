@@ -202,6 +202,9 @@
   color: #050505d2 !important;
 }
 
+.kala{
+  margin-left: 33%;
+}
 
 .down2{
   margin-top: 3%;
@@ -375,6 +378,9 @@
     .div-loc2{
       display: none;
     }
+    .div-2{
+      width: 50%;
+    }
   }
 
   @media (max-width:768px){
@@ -468,6 +474,9 @@
       }
       #close{
           margin-left: 0px !important;
+      }
+      .kala{
+        margin-left: 25%;
       }
     }
 
